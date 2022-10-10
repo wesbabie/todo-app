@@ -1,0 +1,48 @@
+
+div header{
+    background-color: #87431D !important;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    /* position: fixed; */
+    width: 100%;
+}
+div nav{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0% 15%;
+    align-items: center;
+    background-color: #87431D !important;
+}
+h1{
+    font-size: 2.5rem;
+    background-color: #87431D !important;
+    letter-spacing: 2px;
+}
+nav>ul{
+    display: flex;
+    text-align: center;
+    background-color: #87431D !important; 
+}
+nav li{
+    list-style: none;
+    padding-left: 10%;
+    font-size: 1.3rem;
+    background-color: #87431D !important;
+}
+button{
+    color: black;
+    border: none;
+    cursor: pointer;
+    display: none;
+   
+}
+button>span{
+    display: block;
+    margin: 0;
+    background-color: black;
+    margin: 2px 0;
+    width: 30px;
+    height: 5px;
+}

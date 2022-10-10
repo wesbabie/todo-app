@@ -1,0 +1,58 @@
+section{
+    margin: 0;
+    padding: 7% 15%;
+    height: 50vh;
+}
+.card{
+    background-color: #87431D !important;
+    padding: 30px;
+    height: auto;
+    width: 50vh;
+    color: #fff;
+    box-shadow: 1px 2px 9px #000 ;
+}
+.card-title{
+    text-align: center;
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+.form{
+    text-align: center !important;
+    display: flex !important;
+    justify-content: center !important;
+    
+}
+button{
+    background-color: #a86239;
+    color: #fff;
+    border: none;
+    width: 70px;
+    /* height: 40px !important; */
+    border-radius: 10px;
+    font-size: 2rem;
+
+}
+button:hover{
+    background-color: #db6019;
+}
+input{
+    border-radius: 30px;
+    /* height: 30px; */
+    outline: none;
+    font-family: "montserrat";
+}
+input, button{
+    
+    margin-right: 20px;
+    text-align: center;
+    border: none;
+}
+input:hover{
+    border: 1px solid #db6019;
+}
+li{
+    list-style: square;
+    list-style-position:inside;
+    font-size: 1.7rem;
+}
