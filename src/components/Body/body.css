@@ -7,9 +7,16 @@ section{
     background-color: #87431D !important;
     padding: 30px;
     height: auto;
-    width: 50vh;
+    /*width: 50vh;*/
     color: #fff;
     box-shadow: 1px 2px 9px #000 ;
+position: absolute;
+            width: 300px;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            flex-direction: column;
 }
 .card-title{
     text-align: center;
@@ -21,13 +28,6 @@ section{
     text-align: center !important;
     display: flex !important;
     justify-content: center !important;
-position: absolute;
-            width: 300px;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            display: flex;
-            flex-direction: column;
     
 }
 button{
