@@ -4,3 +4,5 @@ this app was made with my knowledge of making components in react, using tools l
 the app allows you to add activities and also delete them by tapping on the item of your choice
 
 this app is live on netlify at https://odunayo-todo.netlify.app/
+
+note: the mobile version of this app has  not been fixed, making the app look improperly aligned on mobile devices
