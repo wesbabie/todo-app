@@ -27,9 +27,7 @@ button{
     background-color: #a86239;
     color: #fff;
     border: none;
-    width: auto;
     /* height: 40px !important; */
-    border-radius: 10px;
     font-size: 2rem;
 
 }
